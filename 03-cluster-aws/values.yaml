@@ -1,0 +1,11 @@
+# Cluster Settings
+clusterid: demo0
+organization: flux-demo
+namespace: org-flux-demo
+controlplaneid: oz5hj
+description: flux-demo
+
+# Node Pool/Machine Deployment Settings
+nodepooleid: fma2b
+availabilityzone: us-east-1a
+nodetype: t3.small
